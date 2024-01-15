@@ -1,3 +1,44 @@
+# ClarionPool
+
+## Introduction
+**Bitcoin on-chain metrics** offer insights into the Bitcoin network and protocol, aiding predictions about market-level events. These predictions are odds-based, providing valuable information for traders and investors.
+
+## ClarionChain and ClarionPool
+### ClarionChain
+The primary goal of ClarionChain is to leverage these insights for economic benefits.
+
+### ClarionPool
+A subset of ClarionChain, ClarionPool focuses on Bitcoin's mempool, offering:
+
+- **High-Frequency Analysis:** Examining transactions and attributes in the mempool every 60 seconds.
+- **Predictive Insights:** Providing block statistics predictions before confirmations.
+
+## How ClarionPool Provides an Edge
+1. **Early Alerts:** Notifies users about potential market movements before block confirmations.
+2. **Insightful Metrics:** Tracks various metrics like profit/loss percentages in the mempool.
+
+### Example Use-Case
+ClarionPool can indicate a potential sell-off if a significant portion of mempool transactions are at a loss, offering insights into market sentiment.
+
+## Fear and Greed Index
+ClarionPool also proposes a unique 'Fear and Greed Index' based solely on mempool data.
+
+## Testimonials
+> Bro...do you subscribe to ClarionPool?  
+> What's that?  
+> Get it, trust me. Use my referral code.
+
+
+
+
+
+
+
+
+
+
+
+
 # clarionpool
 
 
